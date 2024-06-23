@@ -9,17 +9,17 @@ In this tutorial, we will set up a CI/CD pipeline for a static website hosted on
 
 We will use the following AWS services:
 
->• Amazon S3: To store our static website files.
+• Amazon S3: To store our static website files.
 
->• Amazon CloudFront: To distribute content globally with low latency.
+• Amazon CloudFront: To distribute content globally with low latency.
 
->• Namecheap (DNS): To manage our domain name.
+• Namecheap (DNS): To manage our domain name.
 
->• AWS Certificate Manager: To provide SSL/TLS certificates for secure HTTPS access.
+• AWS Certificate Manager: To provide SSL/TLS certificates for secure HTTPS access.
 
->• GitHub: To host our website source code.
+• GitHub: To host our website source code.
 
->• AWS Code Pipeline: To automate the deployment process.
+• AWS Code Pipeline: To automate the deployment process.
 
 # Architecture Diagram for AWS
 Image
