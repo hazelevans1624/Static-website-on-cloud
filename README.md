@@ -18,7 +18,7 @@ We will use the following AWS services:
 </div>
 
 # Architecture Diagram for AWS
-Image
+![image](https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/4c1a501b-cf9c-48ae-b08b-54619f860937)
 
 ## Prerequisites
 Before we begin, ensure you have the following:
