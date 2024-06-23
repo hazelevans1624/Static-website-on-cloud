@@ -40,8 +40,8 @@ Go to the AWS Management Console and navigate to S3.
    - Click "Create bucket"
    - Enter a unique bucket name (e.g., www.staticwebsitedemo.xyz).
    - Block all public access.
-</div>
-![image](https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/7f88c6ba-f681-4690-b00b-8adaa70f511a)
+
+![image](https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/5a382d80-5ecb-46d7-936c-2a9ea07af4d7)
 
  - Select the region and click "Create bucket".
 </div>
