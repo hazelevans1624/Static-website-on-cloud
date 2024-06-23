@@ -41,7 +41,8 @@ Go to the AWS Management Console and navigate to S3.
    - Enter a unique bucket name (e.g., www.staticwebsitedemo.xyz).
    - Block all public access.
 </div>
-Image
+![image](https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/7f88c6ba-f681-4690-b00b-8adaa70f511a)
+
  - Select the region and click "Create bucket".
 </div>
 
@@ -53,11 +54,13 @@ Image
   - Scroll down to "Static website hosting" and enable it.
   - Specify the index document (e.g., index.html).
   - Upload the index.html and style.css files to the bucket.
-Image
+![image](https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/15616394-6bcc-47fa-be5c-6e1f1db0bd2b)
+
   -  Access Your Website:
   -  Now you'll see the endpoint or URL to access your website.
   -  You can manually upload your website files to Amazon S3, but it will show a 403 forbidden error due to disabled public access.
-</div>
+    </div>
+![image](https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/21cf213f-de49-4080-88e1-e4379235f592)
 
 ### B. Configuring CloudFront
 <div style="padding-left: 20px;">
@@ -92,10 +95,12 @@ Image
   
 1.	Add Source Stage in Code Pipeline
   - Use GitHub repository and authorize access.
-Image
+![image](https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/f28f91e9-2e70-4e0a-b39f-3431dc8d6bc0)
+
   - Click GitHub webhook.
   - Configure deployment provider as S3 and extract files before deployment.
-Image
+![image](https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/223e7261-aad6-498b-962d-60024311b2db)
+
   - Create the pipeline.
 </div>
 
@@ -109,7 +114,8 @@ Image
   - Verify that your website is live and served via CloudFront with HTTPS.
   - Make changes in index.html file on GitHub and see if changes are reflected on the website.
 
-Image 
+![image](https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/402a2c35-9916-4354-8ae0-61e959bf19f9)
+
 </div>
 
 # 5. Conclusion
