@@ -54,7 +54,8 @@ Go to the AWS Management Console and navigate to S3.
   - Scroll down to "Static website hosting" and enable it.
   - Specify the index document (e.g., index.html).
   - Upload the index.html and style.css files to the bucket.
-![image](https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/15616394-6bcc-47fa-be5c-6e1f1db0bd2b)
+
+![image](https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/da255c07-a27a-4342-94aa-cd14d594c614)
 
   -  Access Your Website:
   -  Now you'll see the endpoint or URL to access your website.
