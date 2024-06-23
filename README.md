@@ -34,7 +34,7 @@ Setting Up the S3 Bucket
 ### A. Create an S3 Bucket:
 Go to the AWS Management Console and navigate to S3.
 
-Image
+![image](https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/bd0114b0-5822-40b8-97fb-48dd9fa5fb11)
 <div style="padding-left: 20px;">
   
    - Click "Create bucket"
