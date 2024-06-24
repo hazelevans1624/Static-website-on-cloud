@@ -117,6 +117,8 @@ Go to the AWS Management Console and navigate to S3.
 
 ![image](https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/402a2c35-9916-4354-8ae0-61e959bf19f9)
 
+<img width="952" alt="Cloud Challenge static website output  " src="https://github.com/hazelevans1624/Static-website-on-cloud/assets/173595802/1600ddd5-5480-4de4-909c-a28dc55e7025">
+
 </div>
 
 # 5. Conclusion
