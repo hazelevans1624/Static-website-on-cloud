@@ -50,12 +50,12 @@ main {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 20px;
-	background-color: white;
+	background-color: peacock blue;
 }
 
 /* Style the footer */
 footer {
-	background-color: lightblue;
+	background-color: peacock blue;
 	color: #fff;
 	padding: 20px;
 	text-align: center;
